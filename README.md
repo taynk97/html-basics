@@ -39,8 +39,8 @@
 
 <!-- 9. Title and Subtitle with Images -->
 <h2>Delicious Nepali Dishes</h2>
-<img src="nepali1.jpg" alt="Momo" width="250">
-<img src="nepali2.jpg" alt="Thukpa" width="250">
+<img src="Momo.jpg" alt="Momo" width="250">
+<img src="Thukpa.jpg" alt="Thukpa" width="250">
 
 <!-- 10. Centering All Content -->
 <style>
