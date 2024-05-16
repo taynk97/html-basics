@@ -42,9 +42,4 @@
 <img src="Momo.jpg" alt="Momo" width="250">
 <img src="Thukpa.jpg" alt="Thukpa" width="250">
 
-<!-- 10. Centering All Content -->
-<style>
-  body {
-    text-align: center;
-  }
-</style>
+
